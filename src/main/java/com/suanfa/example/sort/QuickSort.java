@@ -10,7 +10,7 @@ public class QuickSort {
         }
         System.out.println("");
     }
-    
+
     public static void main(String[] args){
         int[] a = {3,4,10,5,6,9,8,2,7,1};
         show(a);
